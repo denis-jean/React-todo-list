@@ -44,4 +44,4 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 To learn React, check out the [React documentation](https://reactjs.org/).
 
 # Author
-Kenji Nakamura (https://github.com/dragondev-king)
+Denis (https://github.com/denis-jean)
